@@ -1,0 +1,19 @@
+{
+  "name": "cb-report-as4",
+  "version": "0.1.8",
+  "description": "CFO Financial System v53 - strict monthly cash burn reports. v53: deposits valued at PRINCIPAL (never revalued) from the month-end balance confirmation, with blocking date/revalued guards (Addition T-2); plus a VENDOR_CLASSIF income-row guard (v52.1/PATCH P-1) protecting interest rows from expense reclassification. Retains v50-v52 balance-source precedence, FX single-source, and Desc2 classification. Additive; columns A-R fixed.",
+  "author": {
+    "name": "Nextage"
+  },
+  "keywords": [
+    "cash burn",
+    "cashburn",
+    "CB report",
+    "CB_REPORT_AS4",
+    "monthly",
+    "finance",
+    "Leumi",
+    "FX",
+    "BOI"
+  ]
+}
