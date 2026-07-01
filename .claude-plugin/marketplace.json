@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    {
+      "id": "cashburn-report-as4",
+      "name": "Cashburn Report AS4",
+      "description": "Automated cash burn analysis and financial reporting.",
+      "path": "../"
+    }
+  ]
+}
