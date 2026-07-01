@@ -1,0 +1,19 @@
+{
+  "overall_status": "PASS",
+  "formula_integrity_global": "PASS",
+  "derived_literal_cells": 0,
+  "reconciliation": "OK",
+  "circles": {
+    "C1in": true,
+    "C2out": true,
+    "C3": true,
+    "C4nb": true,
+    "C5bal": true
+  },
+  "all_circles_ok": true,
+  "rows": 24,
+  "n": 24,
+  "classification_accuracy_pct": 100.0,
+  "confidence_accuracy_pct": 100.0,
+  "misses": []
+}
